@@ -1,6 +1,6 @@
 # Marketing Data Centralization
 
-A standardization layer for pulling five or more marketing and CRM sources into BigQuery under one consistent naming and typing convention, so channel attribution logic only has to be written once. Built from the kind of centralization work I do at [motabar.builds.stuff](https://motabar.builds.stuff) for growth-focused teams whose data is scattered across every tool they've adopted along the way.
+A standardization layer for pulling five or more marketing and CRM sources into BigQuery under one consistent naming and typing convention, so channel attribution logic only has to be written once. Built from the kind of centralization work I do at [motabar.builds.stuff](https://motabarbuildstuff.com/) for growth-focused teams whose data is scattered across every tool they've adopted along the way.
 
 ## The problem this solves
 
@@ -35,3 +35,10 @@ The channel map model is the piece most centralization projects skip, and it's t
 ## Stack
 
 BigQuery, dbt, SQL
+
+## Related
+
+* Case study: [Single Source of Truth for Marketing Data](https://motabarbuildstuff.com/case-studies/single-source-of-truth-for-marketing-data/)
+* Service: [Marketing analytics consulting](https://motabarbuildstuff.com/marketing-analytics-consultant/)
+
+Built by [Motabar Javaid](https://motabarbuildstuff.com/about/), analytics engineer at [motabar.builds.stuff](https://motabarbuildstuff.com/).
